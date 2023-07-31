@@ -59,6 +59,12 @@ public class HomeWork1 {
             System.out.println("c < a || b > a is False!");
         }
 
+        if (c != a || b == a) {
+            System.out.println("c != a || b == a is True!");
+        } else {
+            System.out.println("c != a || b == a is False!");
+        }
+
         System.out.println("********************");
 
         // Переполнение
